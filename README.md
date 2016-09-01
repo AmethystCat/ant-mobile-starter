@@ -1,5 +1,5 @@
 # ant-mobile-starter
-
+keywords: react antd-mobile
 - install
 ```shell
  $ npm install
