@@ -32,7 +32,7 @@
           [
             "antd",
             {
-              "style": true,
+              "style": "css",
               "libraryName": "antd-mobile"
             }
           ]

@@ -40,7 +40,7 @@ var config_dev = {
 		loaders: [
             {
                 test: /\.css$/,
-                loaders: ['style-loader', 'css-loader?sourceMap']
+                loaders: ['style-loader', 'css-loader']
             },
             {
                 test: /\.less$/,
